@@ -13,9 +13,9 @@ A beginner-friendly BMI Calculator built with React JS using useState hook. It c
 
 ## 🛠️ Tech Stack
 
-- React JS
-- JavaScript (ES6)
-- HTML5
-- CSS3
+1. React JS
+2.  JavaScript (ES6)
+3.  HTML5
+4.  CSS3
 
 ---
