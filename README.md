@@ -45,10 +45,10 @@ react-bmi-calculator/
 
 BMI Range	Category
 
-< 18.5	Underweight
+1. 18.5	Underweight
 
-18.5 – 24.9	Normal
+2. 18.5 – 24.9	Normal
 
-25 – 29.9	Overweight
+3. 25 – 29.9	Overweight
 
-30 and above	Obese
+4. 30 and above	Obese
